@@ -1,0 +1,15 @@
+#botao_queroAdotar{
+    font-family: 'Poppins';
+    font-size: 11px;
+    text-align: center;
+    color : #E8D5FB;
+    border-radius: 15px;
+}
+
+body{
+    background-color: #E8D5FB;
+}
+
+header{
+    background-color: #E8D5FB;
+}
